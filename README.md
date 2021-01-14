@@ -8,9 +8,9 @@
 - 😈🔥Epic arian (pausing the war to learn to code)
 </br>
 <h3>Actual learning</h3>
-<img align="left" alt="html" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="JS" width="22px" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"/> 
+<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="JS" width="30px" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"/> 
 </br>
 </br>
 <h3>Find me here:</h3>
