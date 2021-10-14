@@ -1,4 +1,4 @@
-<h2 align="center"> Hello World! I'm Thais. You can call me Tha or Thatha or just Beatiful Woman 😆</h2>
+<h2 align="center"> Hello World! I'm Thais. You can call me Tha or Thatha 😆</h2>
 
 - 🌐From Brazil to World
 - 💁Systems Analysis and Development Student
